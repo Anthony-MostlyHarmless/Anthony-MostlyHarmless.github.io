@@ -1,18 +1,16 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: About me
+subtitle: Why you'd want to go on a date with me
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+My name is Inigo Montoya. I have the following qualities:
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+- I rock a great mustache
+- I'm extremely loyal to my family
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+What else do you need?
 
+### My story
 
-[jekyll-organization]: https://github.com/jekyll
+To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
