@@ -8,9 +8,3 @@ title: Latest posts
     <title>{{ page.title }}</title>
     <link rel="stylesheet" href="/assets/css/styles.css">
 </head>
-
-<nav>
-  {% for item in site.data.navigation %}
-    <a href="{{ item.link }}" {% if page.url == item.link %}class="current"{% endif %}>{{ item.name }}</a>
-  {% endfor %}
-</nav>
