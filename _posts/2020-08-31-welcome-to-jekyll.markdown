@@ -31,6 +31,8 @@ Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most ou
 [jekyll-talk]: https://talk.jekyllrb.com/
 
 
+{% if site.utterance.repo and site.utterance.issue-term  %}
+
 <script src="https://utteranc.es/client.js"
         repo="{{site.utterance.repo }}"
         issue-term="{{ site.utterance.issue-term }}"
@@ -39,3 +41,5 @@ Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most ou
         crossorigin="anonymous"
         async>
 </script>
+
+{% endif %}
